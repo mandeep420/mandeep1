@@ -1,0 +1,1825 @@
+fileFormatVersion: 2
+guid: a825f261b2fad6a479e2502f921cb2fc
+timeCreated: 1513273740
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imageedit_1_6332629017_0
+    21300002: imageedit_1_6332629017_1
+    21300004: imageedit_1_6332629017_2
+    21300006: imageedit_1_6332629017_3
+    21300008: imageedit_1_6332629017_4
+    21300010: imageedit_1_6332629017_5
+    21300012: imageedit_1_6332629017_6
+    21300014: imageedit_1_6332629017_7
+    21300016: imageedit_1_6332629017_8
+    21300018: imageedit_1_6332629017_9
+    21300020: imageedit_1_6332629017_10
+    21300022: imageedit_1_6332629017_11
+    21300024: imageedit_1_6332629017_12
+    21300026: imageedit_1_6332629017_13
+    21300028: imageedit_1_6332629017_14
+    21300030: imageedit_1_6332629017_15
+    21300032: imageedit_1_6332629017_16
+    21300034: imageedit_1_6332629017_17
+    21300036: imageedit_1_6332629017_18
+    21300038: imageedit_1_6332629017_19
+    21300040: imageedit_1_6332629017_20
+    21300042: imageedit_1_6332629017_21
+    21300044: imageedit_1_6332629017_22
+    21300046: imageedit_1_6332629017_23
+    21300048: imageedit_1_6332629017_24
+    21300050: imageedit_1_6332629017_25
+    21300052: imageedit_1_6332629017_26
+    21300054: imageedit_1_6332629017_27
+    21300056: imageedit_1_6332629017_28
+    21300058: imageedit_1_6332629017_29
+    21300060: imageedit_1_6332629017_30
+    21300062: imageedit_1_6332629017_31
+    21300064: imageedit_1_6332629017_32
+    21300066: imageedit_1_6332629017_33
+    21300068: imageedit_1_6332629017_34
+    21300070: imageedit_1_6332629017_35
+    21300072: imageedit_1_6332629017_36
+    21300074: imageedit_1_6332629017_37
+    21300076: imageedit_1_6332629017_38
+    21300078: imageedit_1_6332629017_39
+    21300080: imageedit_1_6332629017_40
+    21300082: imageedit_1_6332629017_41
+    21300084: imageedit_1_6332629017_42
+    21300086: imageedit_1_6332629017_44
+    21300088: imageedit_1_6332629017_48
+    21300090: imageedit_1_6332629017_49
+    21300092: imageedit_1_6332629017_50
+    21300094: imageedit_1_6332629017_55
+    21300096: imageedit_1_6332629017_56
+    21300098: imageedit_1_6332629017_57
+    21300100: imageedit_1_6332629017_58
+    21300102: imageedit_1_6332629017_60
+    21300104: imageedit_1_6332629017_61
+    21300106: imageedit_1_6332629017_64
+    21300108: imageedit_1_6332629017_65
+    21300110: imageedit_1_6332629017_66
+    21300112: imageedit_1_6332629017_67
+    21300114: imageedit_1_6332629017_68
+    21300116: imageedit_1_6332629017_69
+    21300118: imageedit_1_6332629017_70
+    21300120: imageedit_1_6332629017_71
+    21300122: imageedit_1_6332629017_72
+    21300124: imageedit_1_6332629017_74
+    21300126: imageedit_1_6332629017_78
+    21300128: imageedit_1_6332629017_79
+    21300130: imageedit_1_6332629017_82
+    21300132: imageedit_1_6332629017_84
+    21300134: imageedit_1_6332629017_86
+    21300136: imageedit_1_6332629017_87
+    21300138: imageedit_1_6332629017_88
+    21300140: imageedit_1_6332629017_90
+    21300142: imageedit_1_6332629017_92
+    21300144: imageedit_1_6332629017_96
+    21300146: imageedit_1_6332629017_98
+    21300148: imageedit_1_6332629017_99
+    21300150: imageedit_1_6332629017_100
+    21300152: imageedit_1_6332629017_101
+    21300154: imageedit_1_6332629017_102
+    21300156: imageedit_1_6332629017_103
+    21300158: imageedit_1_6332629017_104
+    21300160: imageedit_1_6332629017_105
+    21300162: imageedit_1_6332629017_106
+    21300164: imageedit_1_6332629017_107
+    21300166: imageedit_1_6332629017_108
+    21300168: imageedit_1_6332629017_109
+    21300170: imageedit_1_6332629017_110
+    21300172: imageedit_1_6332629017_111
+    21300174: imageedit_1_6332629017_112
+    21300176: imageedit_1_6332629017_113
+    21300178: imageedit_1_6332629017_114
+    21300180: imageedit_1_6332629017_115
+    21300182: imageedit_1_6332629017_116
+    21300184: imageedit_1_6332629017_117
+    21300186: imageedit_1_6332629017_118
+    21300188: imageedit_1_6332629017_119
+    21300190: imageedit_1_6332629017_120
+    21300192: imageedit_1_6332629017_121
+    21300194: imageedit_1_6332629017_122
+    21300196: imageedit_1_6332629017_123
+    21300198: imageedit_1_6332629017_124
+    21300200: imageedit_1_6332629017_125
+    21300202: imageedit_1_6332629017_126
+    21300204: imageedit_1_6332629017_127
+    21300206: imageedit_1_6332629017_128
+    21300208: imageedit_1_6332629017_129
+    21300210: imageedit_1_6332629017_130
+    21300212: imageedit_1_6332629017_131
+    21300214: imageedit_1_6332629017_132
+    21300216: imageedit_1_6332629017_133
+    21300218: imageedit_1_6332629017_134
+    21300220: imageedit_1_6332629017_135
+    21300222: imageedit_1_6332629017_136
+    21300224: imageedit_1_6332629017_137
+    21300226: imageedit_1_6332629017_138
+    21300228: imageedit_1_6332629017_139
+    21300230: imageedit_1_6332629017_43
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_0
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 850
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_1
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 799
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 814
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_3
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 773
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 790
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_5
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 784
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 754
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 757
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 755
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 746
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_10
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 747
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 756
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_12
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 766
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_13
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 756
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 741
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 730
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 746
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 748
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 743
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 743
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 712
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_21
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 734
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_22
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 747
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 745
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 700
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 709
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_26
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 713
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_27
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 724
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 511
+        width: 264
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 730
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_30
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 685
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 510
+        width: 286
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 511
+        width: 265
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_33
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 511
+        width: 259
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_34
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 507
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_35
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 534
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 478
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 485
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 488
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_40
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 483
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_41
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 500
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_42
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 494
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 458
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_48
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 462
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_49
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 451
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_50
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 462
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_55
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 459
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_56
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 447
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_57
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 450
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_58
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 436
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 436
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_61
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 416
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_64
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 397
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_65
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 345
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_66
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 414
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_67
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 389
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_68
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 398
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 258
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_72
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 335
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_74
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 379
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_78
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 182
+        width: 253
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_79
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 165
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_84
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 163
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_86
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 163
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_87
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 152
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 152
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_90
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 150
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_98
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_100
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 28
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_101
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 28
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_102
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 28
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_103
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 28
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_104
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_105
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 28
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_107
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 28
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_108
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 28
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_109
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_110
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 56
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_111
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 56
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_112
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 56
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_113
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 56
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_114
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 56
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_115
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 56
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_116
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 56
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_117
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 56
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_118
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 56
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_119
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 56
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_120
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 56
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_121
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 56
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_122
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 56
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_123
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 28
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_124
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 32
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_125
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_126
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_127
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_128
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 32
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_129
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 32
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_130
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_131
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_132
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_133
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 32
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_134
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_135
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_136
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_137
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_138
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_139
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 32
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_1_6332629017_43
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 182
+        width: 254
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

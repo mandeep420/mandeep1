@@ -1,0 +1,940 @@
+fileFormatVersion: 2
+guid: 037b3cd90b8059048bb7c63c3f68a5f4
+timeCreated: 1511640292
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_0
+    21300002: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_1
+    21300004: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_2
+    21300006: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_3
+    21300008: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_4
+    21300010: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_5
+    21300012: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_6
+    21300014: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_7
+    21300016: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_8
+    21300018: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_9
+    21300020: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_10
+    21300022: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_11
+    21300024: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_12
+    21300026: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_13
+    21300028: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_14
+    21300030: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_15
+    21300032: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_16
+    21300034: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_17
+    21300036: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_18
+    21300038: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_19
+    21300040: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_20
+    21300042: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_21
+    21300044: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_22
+    21300046: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_23
+    21300048: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_24
+    21300050: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_25
+    21300052: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_26
+    21300054: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_27
+    21300056: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_28
+    21300058: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_29
+    21300060: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_30
+    21300062: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_31
+    21300064: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_32
+    21300066: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_33
+    21300068: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_34
+    21300070: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_35
+    21300072: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_36
+    21300074: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_37
+    21300076: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_38
+    21300078: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_39
+    21300080: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_40
+    21300082: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_41
+    21300084: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_42
+    21300086: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_43
+    21300088: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_44
+    21300090: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_45
+    21300092: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_46
+    21300094: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_47
+    21300096: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_48
+    21300098: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_49
+    21300100: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_50
+    21300102: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_51
+    21300104: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_52
+    21300106: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_53
+    21300108: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_54
+    21300110: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_55
+    21300112: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_56
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 568
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 568
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 568
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 568
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 568
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 568
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 652
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_7
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 640
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 568
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 568
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 455
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 455
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 455
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 456
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 455
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_15
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 455
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_16
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 455
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 455
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_18
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 455
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 341
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 341
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 341
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 341
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 341
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_24
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 341
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 341
+        width: 115
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 341
+        width: 115
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_27
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 341
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 229
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 229
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 229
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 227
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 227
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 227
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_34
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 227
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_35
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 227
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_36
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 227
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 113
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 113
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 113
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 113
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 113
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_43
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 113
+        width: 118
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 22
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_49
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_51
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 569
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_53
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 116
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_54
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 115
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_55
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mystogan_battler_rpg_maker_mv_by_retrospriteresources-dag49a1_56
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 117
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
